@@ -12,3 +12,6 @@ Here is a list of books I have already read or think to read
 ## Plan
 - Skygods: The Fall of Pan Am ***by*** Robert Gandt
 - The Book on Rental Property Investing: How to Create Wealth and Passive Income Through Smart Buy & Hold Real Estate Investing ***by*** Brandon Turner
+- Making Ideas Happen ***by*** Scott Belsky
+- Change by Design ***by*** Tim Brown
+- Lead and disrupt ***by*** Charles A. O'Reilly III, Michael L. Tushman
